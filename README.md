@@ -1,8 +1,8 @@
 # PA-Insurence-Reporting-Portal
 Team Members
-vigneshwaran.s
-prema.s
-shree ram kumar.p
+vigneshwaran.s -15csa70
+prema.s-15csa89
+shree ram kumar.p-15csa55
 Abstract
  A personal Accident Insurance Reporting Portal is a self-service reporting tool that allows you to quickly and effectively retrieve the most current claims reports for your policy anywhere, anytime. A personal accident insurance covers the risk of a death and it reduces the financial burden. This portal allows for fast, secure, and private document sharing and in –depth analysis and reporting.
 Existing system:
