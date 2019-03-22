@@ -20,9 +20,9 @@ The accident reporting portal and database is hosted internally on our premises 
 <li>Module 4 - Implement and testing the web portal.</li> 
 
 ## Module 1
-         <li>- Register Form and Login form design and by Shree ram kumar</li>
-          <li>- Manager login and managerdetails design is done by vigneshwaran</li>
-           <li>- Reporting portal design and database connectivity is done by prema </li>
+         <li>Register Form and Login form design and by Shree ram kumar</li>
+          <li>Manager login and managerdetails design is done by vigneshwaran</li>
+           <li>Reporting portal design and database connectivity is done by prema </li>
 ## Remaining Work
 we want to make a email notification to the client that contains the informations such as policy no, amount to cliam, etc
 
