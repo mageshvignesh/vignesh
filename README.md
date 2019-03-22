@@ -16,10 +16,10 @@ The accident reporting portal and database is hosted internally on our premises 
 ## Module Split-Up
 Module 1 - Form Creation
 Module 2 - Database connectivity for  register and reporting forms.
-Module 3 - Connect database with jasper studio.
+Module 3 - Export the data in the excel  .
 Module 4 - Implement and testing the web portal.
-Module 1
-         <li>- Register Form and Login form design and database connectivity  for registration done by Shree ram kumar</li>
+##Module 1
+         <li>- Register Form and Login form design and by Shree ram kumar</li>
           <li>- Manager login and managerdetails design is done by vigneshwaran</li>
            <li>- Reporting portal design and database connectivity is done by prema </li>
 ## Remaining Work
