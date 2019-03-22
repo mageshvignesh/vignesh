@@ -18,7 +18,10 @@ Module 1 - Form Creation
 Module 2 - Database connectivity for  register and reporting forms.
 Module 3 - Connect database with jasper studio.
 Module 4 - Implement and testing the web portal.
-
+Module 1
+         <li>- Register Form and Login form desingned by Shree ram kumar</li>
+          <li>- Manager login and managerdetails form is done by vigneshwaran</li>
+           <li>- Reporting portal design and database connectivity is done by prema </li>
 ## Remaining Work
 we want to make a email notification to the client that contains the informations such as policy no, amount to cliam, etc
 
