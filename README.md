@@ -19,7 +19,7 @@ Module 2 - Database connectivity for  register and reporting forms.
 Module 3 - Connect database with jasper studio.
 Module 4 - Implement and testing the web portal.
 Module 1
-         <li>- Register Form and Login form desingned by Shree ram kumar</li>
+         <li>- Register Form and Login form design and database connectivity  for registration done by Shree ram kumar</li>
           <li>- Manager login and managerdetails form is done by vigneshwaran</li>
            <li>- Reporting portal design and database connectivity is done by prema </li>
 ## Remaining Work
