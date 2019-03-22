@@ -14,10 +14,10 @@ The Reporting form consist of injured person’s name,  date and time of inciden
 The accident reporting portal and database is hosted internally on our premises in a secure server environment.
 
 ## Module Split-Up
-Module 1 - Form Creation
-Module 2 - Database connectivity for  register and reporting forms.
-Module 3 - Export the data in the excel  .
-Module 4 - Implement and testing the web portal.
+<li>Module 1 - Form Creation</li>
+<li>Module 2 - Database connectivity for  register and reporting forms.</li>
+<li>Module 3 - Export the data in the excel.</li>
+<li>Module 4 - Implement and testing the web portal.</li>
 ##Module 1
          <li>- Register Form and Login form design and by Shree ram kumar</li>
           <li>- Manager login and managerdetails design is done by vigneshwaran</li>
