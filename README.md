@@ -16,15 +16,21 @@ The accident reporting portal and database is hosted internally on our premises 
 ## Module Split-Up
 <li>Module 1 - Form Creation</li>
 <li>Module 2 - Database connectivity for  register and reporting forms.</li>
-<li>Module 3 - Export the data in the excel.</li>
+<li>Module 3 - Export the data in the excelsheet an dsend a email notification.</li>
 <li>Module 4 - Implement and testing the web portal.</li> 
 
 ## Module 1
-         Register Form and Login form design and by Shree ram kumar
-          Manager login and managerdetails design is done by vigneshwaran
-           Reporting portal design and database connectivity is done by prema 
+         Register Form and Login form design and by Shree ram kumar.
+         Manager login and managerdetails design is done by vigneshwaran.
+         Reporting portal design and database connectivity is done by prema. 
+## Module 2
+         Database connectivity for Registration form is done by Shree ram kumar.
+         Database connectivity for Reporting portal  is done by prema.
+## Module 3
+         Exporting data into excelsheet is done by Vigneshwaran.
+         Email notification is 
 ## Remaining Work
-we want to make a email notification to the client that contains the informations such as policy no, amount to cliam, etc
+we want to make a email notification to the client that contains the informations such as clients  Name , amount to cliam, date of cliam etc
 
 ## Team Members
 <li>Vigneshwaran.S - 15csa70</li>
