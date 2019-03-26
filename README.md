@@ -31,6 +31,8 @@ The accident reporting portal and database is hosted internally on our premises 
          Email notification is not yet completed and will be completed by shree ram kumar and prema.
 ## Remaining Work
 we want to make a email notification to the client that contains the informations such as clients  Name , amount to cliam, date of cliam etc
+## Future Enhancement
+The future enhancements of our project is to add a field for upload the medical documents in that  web portal
 
 ## Team Members
 <li>Vigneshwaran.S - 15csa70</li>
